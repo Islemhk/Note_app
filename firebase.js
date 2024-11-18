@@ -9,7 +9,7 @@ import { getFirestore, collection } from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBr-IbPxfZoQUkwfL3QND0CfPtMI-_yKCI",
+  apiKey: "",
   authDomain: "notes-app-9480e.firebaseapp.com",
   projectId: "notes-app-9480e",
   storageBucket: "notes-app-9480e.appspot.com",
